@@ -4,7 +4,6 @@ title: Emanuel Borsboom
 tagline: Some of my projects
 ---
 {% include JB/setup %}
-
 <dl>
 <dt><a href="http://code.borsboom.io/current-atlas-tables">Current atlas tables</a></dt>
 <dd>Scripts to generate lookup tables for the the Current Atlas: Juan de Fuca Strait to Strait of Georgia.</dd>
