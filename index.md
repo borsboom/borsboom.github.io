@@ -18,4 +18,4 @@ tagline: Some of my projects
 <dd>A Java-based software modular synthesizer.</dd>
 </dl>
 
-See [my GitHub profile](https://github.com/borsboom).
+See my __[GitHub](https://github.com/borsboom)__ profile.
